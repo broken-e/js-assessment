@@ -1,3 +1,6 @@
+## NOTE:
+This fork contains my attempts at these js-assessments looking at answers. So, spoiler alert.
+
 # A test-driven JS assessment
 
 [![Join the chat at https://gitter.im/rmurphey/js-assessment](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/rmurphey/js-assessment?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
